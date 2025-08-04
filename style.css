@@ -67,3 +67,23 @@ nav a {
   text-decoration: none;
   border-radius: 5px;
 }
+
+
+footer {
+  background-color: #222;
+  color: #ccc;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+footer .socials a {
+  color: #ccc;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer .socials a:hover {
+  color: #fff;
+}
